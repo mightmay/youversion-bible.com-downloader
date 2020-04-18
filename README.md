@@ -16,4 +16,14 @@ scrapy crawl bible
 
 The downloaded json file will be in \bible\data
 
+JSON file structure (this is just an example, your .json file will not be in this order):
+JList
+[
+"BookName":
+{"ChapterNumber":
+{"VerseNumber":"Verse String"}
+
+}
+]
+
 ```
