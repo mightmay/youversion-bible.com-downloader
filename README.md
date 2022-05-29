@@ -3,9 +3,18 @@
 ### Configuring environment and running the project
 
 ```console
+
+OPTION  1 USING CONDA:
 conda create --name bible-dot-com-downloader python=3
 source activate bible-scraper
+
+OPTION 2 USING VENV:
+python -m venv venv
+venv\Scripts\Activate.ps1
+
+
 pip install -r requirements.txt
+
 
 Go into the folder:
 cd bible
