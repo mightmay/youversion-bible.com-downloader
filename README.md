@@ -36,3 +36,9 @@ JList
 ]
 
 ```
+
+
+To change bible version such as Thai1971 NIV, etc.
+Go to spider/spider.py
+then change the line containing bible id.
+
