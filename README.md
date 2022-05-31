@@ -1,5 +1,6 @@
 # bible.com scraper
 
+THIS ONLY WORKS WITH Python 3.9
 ### Configuring environment and running the project
 
 ```console
