@@ -2,10 +2,9 @@
 
 THIS ONLY WORKS WITH Python 3.9
 
-Original refer to the original READ.md file here before reading this below: https://github.com/mightmay/youversion-bible.com-downloader/blob/master/README.md
+Please refer to the original READ.md file here: https://github.com/mightmay/youversion-bible.com-downloader/blob/master/README.md
 
 NOTE:
-
 - I am using MacOS and Python 3.11.2. If you are using a different OS or Python version, please modify the code to fit your requirements.
 - I am new to Python and Git, and I am still learning. If you have any suggestions or corrections, please let me know.
 - An idea I could not implement was to create a script to automate the whole proced: receive variables (bible version ID, bible version abbreviation, output filename). Maybe in future updates.
