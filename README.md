@@ -7,7 +7,7 @@ Please refer to the original READ.md file here: https://github.com/mightmay/youv
 NOTE:
 - I am using MacOS and Python 3.11.2. If you are using a different OS or Python version, please modify the code to fit your requirements.
 - I am new to Python and Git, and I am still learning. If you have any suggestions or corrections, please let me know.
-- An idea I could not implement was to create a script to automate the whole proced: receive variables (bible version ID, bible version abbreviation, output filename). Maybe in future updates.
+- An idea I could not implement was to create a script to automate the whole process from steps 5 to 7: receive variables (bible version ID, bible version abbreviation, output filename), run scrapy, run pip install xmltodict, and convert JSON file to XML. Maybe in future updates.
 
 ## Configuring environment and running the project
 
